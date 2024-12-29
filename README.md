@@ -24,8 +24,8 @@ This project provides a RESTful API built with FastAPI to summarize earnings cal
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/vinay-a1coder/Earnings-Call-Transcript-Summarizer-API.git
+   cd Earnings-Transcript-Summarizer-API
 
 2. **Create and Activate a Virtual Environment (Optional):**
     ```bash
